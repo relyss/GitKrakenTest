@@ -1,0 +1,3 @@
+[submodule "deps/GKT-Submodule"]
+	path = deps/GKT-Submodule
+	url = https://github.com/versj/GitKrakenTest-Submodule.git
